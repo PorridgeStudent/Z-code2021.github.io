@@ -146,7 +146,7 @@ body {
     margin-top:18px;
     margin-left:3px;
     float:left;
-    font-size:5px;
+    font-size:10px;
 }
  
 .central .logon .button[type=button]{/*设置登录按钮*/
@@ -179,7 +179,7 @@ body {
     margin-left:3px;
     float:center;
     color: blue;
-    font-size:5px;
+    font-size:10px;
 }
  
 .central .logon .codeword a{/*链接*/
@@ -193,15 +193,15 @@ body {
 .central .logon .FogretPassword{/*忘了密码?*/
     float:left;
     color:blue;
-    font-size:3px;
-    margin-left:15px;
+    font-size:10px;
+    margin-left:-100px;
     margin-top:20px;
 }
  
 .central .logon .NewAccount{/*注册新账号*/
     float:right;
     color:blue;
-    font-size:3px;
+    font-size:10px;
     margin-right:15px;
     margin-top:20px;
 }
